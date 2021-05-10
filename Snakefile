@@ -1,7 +1,6 @@
 #!/PHShome/fz049/miniconda3/bin/python
 '''
 kallisto.snakefile
-Kamil Slowikowski
 
 Quantify transcript expression in paired-end RNA-seq data with kallisto
 -----------------------------------------------------------------------
