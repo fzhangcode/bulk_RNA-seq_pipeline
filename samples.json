@@ -1,0 +1,1346 @@
+{
+    "AAGAGGCA_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "AAGAGGCA_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "AAGAGGCA_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "AAGAGGCA_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "AAGAGGCA_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "AAGAGGCA_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "AAGAGGCA_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "AAGAGGCA_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AAGAGGCA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AAGAGGCA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AAGAGGCA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AAGAGGCA_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "AGGCAGAA_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "AGGCAGAA_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "AGGCAGAA_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "AGGCAGAA_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "AGGCAGAA_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "AGGCAGAA_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "AGGCAGAA_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "AGGCAGAA_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.AGGCAGAA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.AGGCAGAA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.AGGCAGAA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.AGGCAGAA_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "ATCTCAGG_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "ATCTCAGG_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "ATCTCAGG_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "ATCTCAGG_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "ATCTCAGG_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "ATCTCAGG_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "ATCTCAGG_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "ATCTCAGG_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.ATCTCAGG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.ATCTCAGG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.ATCTCAGG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.ATCTCAGG_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGAGGCTG_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGAGGCTG_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGAGGCTG_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGAGGCTG_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGAGGCTG_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGAGGCTG_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGAGGCTG_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGAGGCTG_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGAGGCTG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGAGGCTG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGAGGCTG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGAGGCTG_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGTACTAG_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGTACTAG_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGTACTAG_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGTACTAG_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGTACTAG_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGTACTAG_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGTACTAG_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "CGTACTAG_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CGTACTAG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CGTACTAG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CGTACTAG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CGTACTAG_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "CTCTCTAC_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "CTCTCTAC_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CTCTCTAC_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CTCTCTAC_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "CTCTCTAC_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "CTCTCTAC_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "CTCTCTAC_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "CTCTCTAC_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.CTCTCTAC_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.CTCTCTAC_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.CTCTCTAC_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.CTCTCTAC_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "GCTCATGA_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "GCTCATGA_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GCTCATGA_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GCTCATGA_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GCTCATGA_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "GCTCATGA_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "GCTCATGA_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "GCTCATGA_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GCTCATGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GCTCATGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GCTCATGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GCTCATGA_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "GGACTCCT_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "GGACTCCT_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GGACTCCT_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GGACTCCT_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GGACTCCT_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "GGACTCCT_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "GGACTCCT_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "GGACTCCT_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GGACTCCT_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GGACTCCT_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GGACTCCT_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GGACTCCT_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "GTAGAGGA_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "GTAGAGGA_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GTAGAGGA_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GTAGAGGA_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "GTAGAGGA_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "GTAGAGGA_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "GTAGAGGA_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "GTAGAGGA_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.GTAGAGGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.GTAGAGGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.GTAGAGGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.GTAGAGGA_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAAGGCGA_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAAGGCGA_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAAGGCGA_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAAGGCGA_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAAGGCGA_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAAGGCGA_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAAGGCGA_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAAGGCGA_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAAGGCGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAAGGCGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAAGGCGA_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAAGGCGA_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAGGCATG_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAGGCATG_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAGGCATG_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAGGCATG_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAGGCATG_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAGGCATG_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAGGCATG_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "TAGGCATG_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TAGGCATG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TAGGCATG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TAGGCATG_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TAGGCATG_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    },
+    "TCCTGAGC_AGAGGATA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_AGAGGATA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_AGAGGATA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_AGAGGATA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_AGAGGATA.unmapped.2.fastq.gz"
+        ]
+    },
+    "TCCTGAGC_AGGCTTAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_AGGCTTAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_AGGCTTAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_AGGCTTAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_AGGCTTAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TCCTGAGC_ATAGAGAG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_ATAGAGAG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_ATAGAGAG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_ATAGAGAG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_ATAGAGAG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TCCTGAGC_ATTAGACG": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_ATTAGACG.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_ATTAGACG.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_ATTAGACG.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_ATTAGACG.unmapped.2.fastq.gz"
+        ]
+    },
+    "TCCTGAGC_CGGAGAGA": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_CGGAGAGA.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_CGGAGAGA.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_CGGAGAGA.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_CGGAGAGA.unmapped.2.fastq.gz"
+        ]
+    },
+    "TCCTGAGC_CTCCTTAC": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_CTCCTTAC.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_CTCCTTAC.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_CTCCTTAC.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_CTCCTTAC.unmapped.2.fastq.gz"
+        ]
+    },
+    "TCCTGAGC_TACTCCTT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_TACTCCTT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_TACTCCTT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_TACTCCTT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_TACTCCTT.unmapped.2.fastq.gz"
+        ]
+    },
+    "TCCTGAGC_TATGCAGT": {
+        "R1": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_TATGCAGT.unmapped.1.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_TATGCAGT.unmapped.1.fastq.gz"
+        ],
+        "R2": [
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/1_HVNWWBGXH.1.TCCTGAGC_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/2_HVNWWBGXH.2.TCCTGAGC_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/3_HVNWWBGXH.3.TCCTGAGC_TATGCAGT.unmapped.2.fastq.gz",
+            "/data/srlab2/fzhang/results/2021-05-03_Helena_bulk_RNA/fastq/4_HVNWWBGXH.4.TCCTGAGC_TATGCAGT.unmapped.2.fastq.gz"
+        ]
+    }
+}
